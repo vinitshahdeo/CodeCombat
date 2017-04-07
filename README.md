@@ -11,4 +11,4 @@
 
 ##### Mobile View - https://vinitshahdeo.github.io/CodeCombat/index1.html
 
-#### Vist - http://cc.codechefvit.com/
+#### Visit - http://cc.codechefvit.com/
