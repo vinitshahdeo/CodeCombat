@@ -7,8 +7,10 @@
 
 ##### Preview - https://vinitshahdeo.github.io/CodeCombat/
 
-##### Cover Page Demo - https://vinitshahdeo.github.io/CodeCombat/test.html
+##### Cover Page Demo - https://vinitshahdeo.github.io/CodeCombat/cover/index.html
 
 ##### Mobile View - https://vinitshahdeo.github.io/CodeCombat/index1.html
 
-#### Visit - http://cc.codechefvit.com/
+### Visit - http://cc.codechefvit.com/
+
+Made with ❤ by Vinit Shahdeo
