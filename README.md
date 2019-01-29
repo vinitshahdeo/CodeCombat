@@ -16,3 +16,5 @@
 > Click [here](https://github.com/vinitshahdeo/Code-A-Strike) to view the source code of the **[registration portal](https://github.com/vinitshahdeo/Code-A-Strike)** of **CodeCombat**
 
 **Made with ❤ by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
+
+![Tweet Now](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/CodeCombat.svg?style=social) ![MIT license - Vinit Shahdeo](https://img.shields.io/github/license/vinitshahdeo/CodeCombat.svg?style=social)
