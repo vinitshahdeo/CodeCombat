@@ -17,4 +17,4 @@
 
 **Made with ❤ by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
 
-![Tweet Now](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/CodeCombat.svg?style=social) ![MIT license - Vinit Shahdeo](https://img.shields.io/github/license/vinitshahdeo/CodeCombat.svg?style=social)
+[![Tweet Now](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/CodeCombat.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![MIT license - Vinit Shahdeo](https://img.shields.io/github/license/vinitshahdeo/CodeCombat.svg?style=social)](https://github.com/vinitshahdeo)
